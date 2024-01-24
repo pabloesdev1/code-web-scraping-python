@@ -1,5 +1,5 @@
 venv/
 .env
-chromedrive
+chromedriver
 .mypy_cache/
 __pycache__/
