@@ -1,0 +1,15 @@
+    Información de productos de Amazon
+
+- Url de resultado:     https://www.amazon.com/s?k=<item>
+- Producto:             div.s-result-item
+- Nombre:               span.a-size-medium a-color-base a-text-normal
+- Precio:               span.a-price-whole span.a-price-fraction
+- URL:                  a.a-link-normal s-no-outline
+
+    Información de productos de Mercado Libre
+
+- Url de resultado:     https://listado.mercadolibre.com.ec/<item>
+- Producto:             div.ui-search-result__wrapper
+- Nombre:               h2.ui-search-item__title
+- Precio:               span.andes-money-amount__fraction
+- URL:                  a.ui-search-link
